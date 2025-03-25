@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.example.wildfire",
+      "sha256_cert_fingerprints":
+      ["34:6E:DF:DB:97:C4:AB:A9:84:B7:6B:E7:0D:45:B4:5F:2B:7D:24:20:77:04:5E:1E:E3:AD:91:DD:2D:D1:DC:36"]
+    }
+  }]
