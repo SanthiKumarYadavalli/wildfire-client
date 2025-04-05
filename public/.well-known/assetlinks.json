@@ -3,6 +3,6 @@
     "target": {
       "namespace": "android_app",
       "package_name": "com.example.wildfire",
-      "sha256_cert_fingerprints":["B6:1E:81:E0:3E:0C:1B:CA:19:99:87:27:2F:53:A0:56:88:E2:C9:02:99:B5:A0:DB:69:ED:EC:93:08:02:45:9B"]
+      "sha256_cert_fingerprints":["18:DB:08:9F:47:B8:76:47:5C:E7:AD:34:C9:D7:D0:7C:AF:A8:8E:F9:4F:C2:3C:B6:60:4E:C7:06:D3:7A:E9:11"]
     }
   }]
